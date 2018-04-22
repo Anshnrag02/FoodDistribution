@@ -1,0 +1,26 @@
+{
+  "name": "fooddistribution",
+  "version": "1.0.0",
+  "description": "An app made using google map API, node, bootstrap, mysql to share extra food to near by NGO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raviranjan0631/FoodDistribution.git"
+  },
+  "author": "raviranjan0631@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raviranjan0631/FoodDistribution/issues"
+  },
+  "homepage": "https://github.com/raviranjan0631/FoodDistribution#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.37.6"
+  }
+}
